@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  WEEK6
+
+  Created by mac on 2021/11/01.
+  
+*/
+"tab_home" = "HOME";
+"tab_setting" = "Setting";
+
+"welcome_text" = "Hello! Nice to meet you";

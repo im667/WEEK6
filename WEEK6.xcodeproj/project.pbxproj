@@ -13,6 +13,25 @@
 		04418A0A272F6F7200E30ADD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04418A08272F6F7200E30ADD /* Main.storyboard */; };
 		04418A0C272F6F7700E30ADD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04418A0B272F6F7700E30ADD /* Assets.xcassets */; };
 		04418A0F272F6F7700E30ADD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04418A0D272F6F7700E30ADD /* LaunchScreen.storyboard */; };
+		04418A20272F705A00E30ADD /* SCDream1.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A1B272F703A00E30ADD /* SCDream1.otf */; };
+		04418A21272F705A00E30ADD /* SCDream2.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A1F272F703B00E30ADD /* SCDream2.otf */; };
+		04418A22272F705A00E30ADD /* SCDream3.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A1C272F703A00E30ADD /* SCDream3.otf */; };
+		04418A23272F705A00E30ADD /* SCDream4.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A1E272F703B00E30ADD /* SCDream4.otf */; };
+		04418A24272F705A00E30ADD /* SCDream5.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A19272F703A00E30ADD /* SCDream5.otf */; };
+		04418A25272F705A00E30ADD /* SCDream6.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A1A272F703A00E30ADD /* SCDream6.otf */; };
+		04418A26272F705A00E30ADD /* SCDream7.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A1D272F703B00E30ADD /* SCDream7.otf */; };
+		04418A27272F705A00E30ADD /* SCDream8.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A17272F703A00E30ADD /* SCDream8.otf */; };
+		04418A28272F705A00E30ADD /* SCDream9.otf in Resources */ = {isa = PBXBuildFile; fileRef = 04418A18272F703A00E30ADD /* SCDream9.otf */; };
+		04418A2A272F714200E30ADD /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04418A29272F714100E30ADD /* MainViewController.swift */; };
+		04418A2D272F738100E30ADD /* UIFont+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04418A2C272F738100E30ADD /* UIFont+Extension.swift */; };
+		04418A38272F803000E30ADD /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 04418A3A272F803000E30ADD /* Localizable.strings */; };
+		04418A3F272F84DF00E30ADD /* Setting.strings in Resources */ = {isa = PBXBuildFile; fileRef = 04418A41272F84DF00E30ADD /* Setting.strings */; };
+		04418A46272F87C000E30ADD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 04418A48272F87C000E30ADD /* InfoPlist.strings */; };
+		04418A4B272F88E200E30ADD /* String+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04418A4A272F88E200E30ADD /* String+Extension.swift */; };
+		04418A4D272F89FF00E30ADD /* LocalizableStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04418A4C272F89FF00E30ADD /* LocalizableStrings.swift */; };
+		04C0136A2730C98600811B2C /* RealmModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C013692730C98600811B2C /* RealmModel.swift */; };
+		04C0136D2730C9E700811B2C /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = 04C0136C2730C9E700811B2C /* Realm */; };
+		04C0136F2730C9E700811B2C /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 04C0136E2730C9E700811B2C /* RealmSwift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +43,32 @@
 		04418A0B272F6F7700E30ADD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04418A0E272F6F7700E30ADD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04418A10272F6F7700E30ADD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04418A17272F703A00E30ADD /* SCDream8.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream8.otf; sourceTree = "<group>"; };
+		04418A18272F703A00E30ADD /* SCDream9.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream9.otf; sourceTree = "<group>"; };
+		04418A19272F703A00E30ADD /* SCDream5.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream5.otf; sourceTree = "<group>"; };
+		04418A1A272F703A00E30ADD /* SCDream6.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream6.otf; sourceTree = "<group>"; };
+		04418A1B272F703A00E30ADD /* SCDream1.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream1.otf; sourceTree = "<group>"; };
+		04418A1C272F703A00E30ADD /* SCDream3.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream3.otf; sourceTree = "<group>"; };
+		04418A1D272F703B00E30ADD /* SCDream7.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream7.otf; sourceTree = "<group>"; };
+		04418A1E272F703B00E30ADD /* SCDream4.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream4.otf; sourceTree = "<group>"; };
+		04418A1F272F703B00E30ADD /* SCDream2.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SCDream2.otf; sourceTree = "<group>"; };
+		04418A29272F714100E30ADD /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		04418A2C272F738100E30ADD /* UIFont+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+Extension.swift"; sourceTree = "<group>"; };
+		04418A2F272F7CA900E30ADD /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		04418A30272F7CAA00E30ADD /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		04418A33272F7D2A00E30ADD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		04418A34272F7D2A00E30ADD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		04418A39272F803000E30ADD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		04418A3B272F803C00E30ADD /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		04418A3C272F803C00E30ADD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		04418A40272F84DF00E30ADD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Setting.strings; sourceTree = "<group>"; };
+		04418A42272F84E300E30ADD /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Setting.strings; sourceTree = "<group>"; };
+		04418A43272F84E800E30ADD /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Setting.strings; sourceTree = "<group>"; };
+		04418A47272F87C000E30ADD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		04418A49272F87C200E30ADD /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		04418A4A272F88E200E30ADD /* String+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extension.swift"; sourceTree = "<group>"; };
+		04418A4C272F89FF00E30ADD /* LocalizableStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizableStrings.swift; sourceTree = "<group>"; };
+		04C013692730C98600811B2C /* RealmModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +76,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04C0136F2730C9E700811B2C /* RealmSwift in Frameworks */,
+				04C0136D2730C9E700811B2C /* Realm in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,15 +103,64 @@
 		04418A01272F6F7200E30ADD /* WEEK6 */ = {
 			isa = PBXGroup;
 			children = (
+				04C013682730C97200811B2C /* Realm */,
+				04418A35272F7FAD00E30ADD /* Localization */,
+				04418A2B272F735C00E30ADD /* Extension */,
+				04418A16272F6F8400E30ADD /* Font */,
 				04418A02272F6F7200E30ADD /* AppDelegate.swift */,
 				04418A04272F6F7200E30ADD /* SceneDelegate.swift */,
 				04418A06272F6F7200E30ADD /* ViewController.swift */,
 				04418A08272F6F7200E30ADD /* Main.storyboard */,
+				04418A29272F714100E30ADD /* MainViewController.swift */,
 				04418A0B272F6F7700E30ADD /* Assets.xcassets */,
 				04418A0D272F6F7700E30ADD /* LaunchScreen.storyboard */,
 				04418A10272F6F7700E30ADD /* Info.plist */,
 			);
 			path = WEEK6;
+			sourceTree = "<group>";
+		};
+		04418A16272F6F8400E30ADD /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				04418A1B272F703A00E30ADD /* SCDream1.otf */,
+				04418A1F272F703B00E30ADD /* SCDream2.otf */,
+				04418A1C272F703A00E30ADD /* SCDream3.otf */,
+				04418A1E272F703B00E30ADD /* SCDream4.otf */,
+				04418A19272F703A00E30ADD /* SCDream5.otf */,
+				04418A1A272F703A00E30ADD /* SCDream6.otf */,
+				04418A1D272F703B00E30ADD /* SCDream7.otf */,
+				04418A17272F703A00E30ADD /* SCDream8.otf */,
+				04418A18272F703A00E30ADD /* SCDream9.otf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		04418A2B272F735C00E30ADD /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				04418A2C272F738100E30ADD /* UIFont+Extension.swift */,
+				04418A4A272F88E200E30ADD /* String+Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		04418A35272F7FAD00E30ADD /* Localization */ = {
+			isa = PBXGroup;
+			children = (
+				04418A3A272F803000E30ADD /* Localizable.strings */,
+				04418A48272F87C000E30ADD /* InfoPlist.strings */,
+				04418A41272F84DF00E30ADD /* Setting.strings */,
+				04418A4C272F89FF00E30ADD /* LocalizableStrings.swift */,
+			);
+			path = Localization;
+			sourceTree = "<group>";
+		};
+		04C013682730C97200811B2C /* Realm */ = {
+			isa = PBXGroup;
+			children = (
+				04C013692730C98600811B2C /* RealmModel.swift */,
+			);
+			path = Realm;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +179,10 @@
 			dependencies = (
 			);
 			name = WEEK6;
+			packageProductDependencies = (
+				04C0136C2730C9E700811B2C /* Realm */,
+				04C0136E2730C9E700811B2C /* RealmSwift */,
+			);
 			productName = WEEK6;
 			productReference = 044189FF272F6F7200E30ADD /* WEEK6.app */;
 			productType = "com.apple.product-type.application";
@@ -109,8 +209,13 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
+				ja,
 			);
 			mainGroup = 044189F6272F6F7200E30ADD;
+			packageReferences = (
+				04C0136B2730C9E700811B2C /* XCRemoteSwiftPackageReference "realm-cocoa" */,
+			);
 			productRefGroup = 04418A00272F6F7200E30ADD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,7 +230,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04418A20272F705A00E30ADD /* SCDream1.otf in Resources */,
+				04418A21272F705A00E30ADD /* SCDream2.otf in Resources */,
+				04418A22272F705A00E30ADD /* SCDream3.otf in Resources */,
+				04418A23272F705A00E30ADD /* SCDream4.otf in Resources */,
+				04418A46272F87C000E30ADD /* InfoPlist.strings in Resources */,
+				04418A24272F705A00E30ADD /* SCDream5.otf in Resources */,
+				04418A25272F705A00E30ADD /* SCDream6.otf in Resources */,
+				04418A26272F705A00E30ADD /* SCDream7.otf in Resources */,
+				04418A27272F705A00E30ADD /* SCDream8.otf in Resources */,
+				04418A28272F705A00E30ADD /* SCDream9.otf in Resources */,
+				04418A38272F803000E30ADD /* Localizable.strings in Resources */,
 				04418A0F272F6F7700E30ADD /* LaunchScreen.storyboard in Resources */,
+				04418A3F272F84DF00E30ADD /* Setting.strings in Resources */,
 				04418A0C272F6F7700E30ADD /* Assets.xcassets in Resources */,
 				04418A0A272F6F7200E30ADD /* Main.storyboard in Resources */,
 			);
@@ -140,7 +257,12 @@
 			files = (
 				04418A07272F6F7200E30ADD /* ViewController.swift in Sources */,
 				04418A03272F6F7200E30ADD /* AppDelegate.swift in Sources */,
+				04418A4D272F89FF00E30ADD /* LocalizableStrings.swift in Sources */,
 				04418A05272F6F7200E30ADD /* SceneDelegate.swift in Sources */,
+				04418A2D272F738100E30ADD /* UIFont+Extension.swift in Sources */,
+				04C0136A2730C98600811B2C /* RealmModel.swift in Sources */,
+				04418A4B272F88E200E30ADD /* String+Extension.swift in Sources */,
+				04418A2A272F714200E30ADD /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,6 +273,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				04418A09272F6F7200E30ADD /* Base */,
+				04418A2F272F7CA900E30ADD /* ko */,
+				04418A33272F7D2A00E30ADD /* ja */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -159,8 +283,39 @@
 			isa = PBXVariantGroup;
 			children = (
 				04418A0E272F6F7700E30ADD /* Base */,
+				04418A30272F7CAA00E30ADD /* ko */,
+				04418A34272F7D2A00E30ADD /* ja */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		04418A3A272F803000E30ADD /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04418A39272F803000E30ADD /* en */,
+				04418A3B272F803C00E30ADD /* ko */,
+				04418A3C272F803C00E30ADD /* ja */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		04418A41272F84DF00E30ADD /* Setting.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04418A40272F84DF00E30ADD /* en */,
+				04418A42272F84E300E30ADD /* ja */,
+				04418A43272F84E800E30ADD /* ko */,
+			);
+			name = Setting.strings;
+			sourceTree = "<group>";
+		};
+		04418A48272F87C000E30ADD /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04418A47272F87C000E30ADD /* en */,
+				04418A49272F87C200E30ADD /* ko */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -170,6 +325,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
@@ -231,6 +387,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
@@ -360,6 +517,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		04C0136B2730C9E700811B2C /* XCRemoteSwiftPackageReference "realm-cocoa" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-cocoa.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		04C0136C2730C9E700811B2C /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 04C0136B2730C9E700811B2C /* XCRemoteSwiftPackageReference "realm-cocoa" */;
+			productName = Realm;
+		};
+		04C0136E2730C9E700811B2C /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 04C0136B2730C9E700811B2C /* XCRemoteSwiftPackageReference "realm-cocoa" */;
+			productName = RealmSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 044189F7272F6F7200E30ADD /* Project object */;
 }
